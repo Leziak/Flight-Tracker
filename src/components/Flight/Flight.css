@@ -1,0 +1,15 @@
+.Flight {
+    display: flex;
+    border: 5px solid black;
+    flex-flow: column wrap;
+    width: 300px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Flights {
+    display: flex;
+    margin: 50px;
+    flex-flow: row wrap;
+}
